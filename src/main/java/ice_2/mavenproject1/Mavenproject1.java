@@ -6,7 +6,8 @@ package ice_2.mavenproject1;
 
 /**
  *
- * @author ritikasancheti
+ * @author ritikasancheti GitHub commit changes
+
  */
 public class Mavenproject1 {
 
